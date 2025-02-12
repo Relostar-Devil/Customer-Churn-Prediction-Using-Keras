@@ -1,5 +1,3 @@
-# Customer-Churn-Prediction-Using-Keras
-
 ## Overview
 
 This repository focuses on building a binary classification model to predict customer churn for a telecom company. By analyzing customer data, the project aims to identify patterns and factors that contribute to churn, enabling the company to take proactive measures to retain customers.
